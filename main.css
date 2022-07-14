@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(rgba(0, 60, 255, 0.45), rgba(4, 0, 255, 0.45)), 
+    url(https://www.apsfulfillment.com/wp-content/uploads/2017/03/APS_28.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
